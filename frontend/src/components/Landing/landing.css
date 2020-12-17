@@ -1,0 +1,51 @@
+.navbar1 {
+  height: 100px;
+  background: linear-gradient(45deg, #0998db, #134ca5);
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 20px 40px;
+}
+
+.landing-nav-auth {
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 625px;
+}
+
+.landing-auth {
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 30px;
+}
+
+.landing-auth a {
+  color: white;
+}
+
+.hr {
+  border: 1px solid #cbd2d6;
+}
+
+.landing-nav-table {
+  margin: 0px auto;
+}
+
+.landing-nav-table td {
+  border-bottom: #134ca5;
+  padding: 10px;
+}
+
+.sign-up-button {
+  width: 150px;
+  border: none;
+  border: solid 2px white;
+  border-radius: 30px;
+  border-spacing: 100px;
+  padding: 10px;
+  background: #0070ba;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}

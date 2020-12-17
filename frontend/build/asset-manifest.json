@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99ee7765.chunk.css",
+    "main.js": "/static/js/main.389d8b13.chunk.js",
+    "main.js.map": "/static/js/main.389d8b13.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/js/2.eb1328aa.chunk.js": "/static/js/2.eb1328aa.chunk.js",
+    "static/js/2.eb1328aa.chunk.js.map": "/static/js/2.eb1328aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.42ecbeb809289a349db524784e2127cb.js": "/precache-manifest.42ecbeb809289a349db524784e2127cb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.99ee7765.chunk.css.map": "/static/css/main.99ee7765.chunk.css.map",
+    "static/js/2.eb1328aa.chunk.js.LICENSE.txt": "/static/js/2.eb1328aa.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/materialdesignicons-webfontd41d.777d5eed.eot",
+    "static/media/google-logo.png": "/static/media/google-logo.36158af3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/js/2.eb1328aa.chunk.js",
+    "static/css/main.99ee7765.chunk.css",
+    "static/js/main.389d8b13.chunk.js"
+  ]
+}

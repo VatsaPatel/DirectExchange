@@ -1,0 +1,78 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+.main-dasbhoard {
+  background-color: #eff2f7;
+  font-family: "Open Sans", sans-serif;
+  height: 100vh;
+} */
+
+/** HEADER **/
+
+/* #main-top-header {
+  background: #fff;
+  border-bottom: 1px solid #edeef1;
+}
+#main-top-header .logo-wrapper {
+  float: left;
+  display: block;
+  border-right: 1px solid #edeef1;
+  padding: 15px 28px 10px 40px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: #66a6ff;
+}
+#main-top-header .dropdown-menu:before {
+  content: url(./up-arrow.png);
+  position: absolute;
+  top: -18px;
+  right: 17px;
+  z-index: 2;
+}
+.user-dropdown-menu {
+  transform: translate3d(-9px, 40px, 0px);
+  top: 0px;
+  left: 0px;
+  will-change: transform;
+  position: absolute !important;
+}
+
+/** SIDE NAVIGATION BAR *
+.side-nav {
+  position: absolute;
+  width: 300px;
+  height: 100%;
+  transition: all ease-in-out 0.5s;
+  transition: all 0.5s;
+  padding: 60px 0px 0px 15px;
+  background: #fff;
+  border-right: 1px solid #edeef1;
+}
+.side-nav ul {
+  list-style: none;
+  transition: all 3s;
+}
+
+.side-nav ul li a {
+  font-size: 17px;
+  font-weight: 600;
+  display: block;
+  text-transform: uppercase;
+  color: #bdc3d0;
+  line-height: 60px;
+  margin-bottom: 10px;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+.side-nav ul li i {
+  padding-right: 10px;
+}
+
+.side-nav ul li a {
+  text-decoration: none;
+}
+.side-nav ul li a:hover {
+  color: #66a6ff;
+  border-right: 5px solid #66a6ff;
+} */

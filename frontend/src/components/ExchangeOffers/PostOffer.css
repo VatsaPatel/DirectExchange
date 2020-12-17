@@ -1,0 +1,171 @@
+.offer-search-box {
+  background: linear-gradient(120deg, #68e4f1 0%, #66a6ff 100%);
+  min-height: 100px;
+  border-radius: 5px;
+  position: relative;
+  padding: 13px 30px;
+  margin-bottom: 20px;
+  z-index: 9;
+  color: #fff;
+}
+
+.post-offer-button {
+  text-align: center;
+  color: #fff;
+  font-size: 1.166em;
+  border: 1px solid #dee0e7;
+  border-radius: 5px;
+  line-height: 37px;
+  padding: 0 17px;
+  margin: 20px;
+  background: #5e37ff;
+  left: 10px;
+}
+
+.offer-details {
+  float: left;
+  width: 420px;
+  min-height: 500px;
+  padding: 50px 25px 50px;
+  border-radius: 5px 0px 0px 5px;
+  height: 100%;
+  background: #fff;
+}
+.offer-details .main-title {
+  font-weight: 600;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.offer-details .form-group {
+  margin-bottom: 15px !important;
+}
+.offer-details input,
+.offer-details select {
+  width: 100%;
+  height: 100% !important;
+  border: 1px solid #dee0e7;
+  background-color: #fff !important;
+  font-size: 20px;
+  padding: 7px 20px;
+  border-radius: 5px;
+}
+.custom-btn1 {
+  line-height: 50px;
+  border-radius: 25px;
+  width: 100%;
+  border: none;
+  color: #fff !important;
+  text-align: center;
+  padding: 0 30px;
+  min-width: 160px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 20px;
+  background: linear-gradient(120deg, #68e4f1 0%, #66a6ff 100%);
+  background: #10d876;
+}
+.modal-sidebar {
+  margin-left: 420px;
+  width: 300px;
+  height: 100%;
+  padding: 150px 22px 30px;
+}
+
+.modal-sidebar h5 {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.modal-sidebar .return-output {
+  line-height: 70px;
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  border-radius: 5px;
+  background: #5e37ff;
+}
+.hidden {
+  display: none;
+}
+#amount-details label {
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 600;
+  top: -5px;
+  position: relative;
+}
+
+.counter-offer-button{
+  text-align: center;
+  color: #fff;
+  font-size: 13px;
+  border: 1px solid #dee0e7;
+  border-radius: 30px;
+  line-height: 37px;
+  padding: 0 17px;
+  margin-right: 15px;
+  margin-top: 10px;
+  background: linear-gradient(45deg, #0998db, #134ca5);
+  float: right;
+  min-width: 100px;
+}
+
+.counter-offer-details{
+  width: 500px;
+  min-height: 500px;
+  padding: 50px 25px 50px;
+  border-radius: 5px 0px 0px 5px;
+  height: 100%;
+  background: #fff;
+}
+
+.post-counter-offer-custom-button{
+  line-height: 50px;
+  border-radius: 25px;
+  border: none;
+  color: #fff !important;
+  text-align: center;
+  padding: 0 20px;
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 40px;
+  background: linear-gradient(45deg, #0998db, #134ca5);
+}
+
+.view-offer-table{
+  text-align: center;
+  border-spacing: 0 4px;
+  border-collapse: separate;
+}
+
+.view-offer-table td{
+  font-weight: 100;
+}
+
+.view-collapsible-tab{
+  display: block;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+}
+
+.view-single-match-collapsible-tab {
+  background: #5E37FF;
+}
+
+.view-split-match-collapsible-tab {
+  background: #10d876;
+}
+
+.view-other-split-match-collapsible-tab {
+  background: #7a3ba0;
+}
